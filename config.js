@@ -35,7 +35,7 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU',
    packname: "YT ALAN BOTZ",
-   author: 'Alan Botz',
+   author: 'Arifi Razzaq',
     setting: {
     admin: "only admin",
     group: "only group",
