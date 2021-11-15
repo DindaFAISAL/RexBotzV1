@@ -1,7 +1,7 @@
 const fs = require("fs")
 userbot = {
 Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
- owner: [ "6285718366706", "62857-1836-6706" ],
+ owner: [ "62858770642900", "62858-7706-42900" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
