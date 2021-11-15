@@ -105,4 +105,4 @@ Create a new account at [`monggodb`](https://www.mongodb.com/cloud/atlas/registe
 * [`Rizky (Creator Rixle Bot)`](https://github.com/Rizxyu)
 * [`Arifi Razzaq (Dev)`](https://github.com/Arifirazzaq2001)
 * [`O r e k i (Contributor)`](https://github.com/Oreki-san)
-* [`ＲｉｘｌｅＢoｔ (Robot)`](https://wa.me/62823283033323)
+* [`FaisalＢoｔ (Dev)`](https://wa.me/62858770642900)
